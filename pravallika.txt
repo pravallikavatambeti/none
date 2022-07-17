@@ -1,2 +1,8 @@
+
+welcome to the kitchen
+hi
+hello
+
+
 welcome 
 done my changes
